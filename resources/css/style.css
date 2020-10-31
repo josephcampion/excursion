@@ -1,9 +1,33 @@
 /* Universal Styles */
 
 html {
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     color: white;
     background-color: black;
     text-align: center;
 }
 
+.banner{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.sub-banner {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.caption {
+    color: gray;
+    font-size: 21px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
